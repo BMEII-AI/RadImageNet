@@ -1,7 +1,7 @@
 # RadImageNet
 Welcome to the official repository for RadImageNet. 
 
-RadImageNet, a pre-trained convolutional neural networks trained solely from medical imaging to be used as the basis of transfer learning for medical imaging applications.
+RadImageNet: A Large-scale Radiologic Dataset for Enhancing Deep Learning Transfer Learning Research. Yang Yang, Xueyan Mei, Philip Robson, Brett Marinelli, Mingqian Huang, Amish Doshi, Adam Jacobi, Katherine Link, Thomas Yang, Chendi Cao, Ying Wang, Hayit Greenspan, Timothy Deyer, Zahi Fayad 
 
 Pretained RadImageNet Models: [RadImageNet_models](https://drive.google.com/drive/folders/1ARscSSpTsZyC5-dhnje2fnqNa6GrTix_?usp=sharing)
 
