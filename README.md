@@ -1,9 +1,11 @@
 # RadImageNet
+Welcome to the official repository for RadImageNet. 
+
 RadImageNet, a pre-trained convolutional neural networks trained solely from medical imaging to be used as the basis of transfer learning for medical imaging applications.
 
-[RadImageNet_models download here](https://drive.google.com/drive/folders/1ARscSSpTsZyC5-dhnje2fnqNa6GrTix_?usp=sharing)
+Pretained RadImageNet Models: [RadImageNet_models](https://drive.google.com/drive/folders/1ARscSSpTsZyC5-dhnje2fnqNa6GrTix_?usp=sharing)
 
-Seven public medical applications datasets are available at:
+# Seven public medical applications datasets are available at:
 
 [Thyroid ultrasound](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9287/92870W/An-open-access-thyroid-ultrasound-image-database/10.1117/12.2073532.full?SSO=1
 )
