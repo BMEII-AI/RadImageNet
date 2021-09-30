@@ -1,7 +1,7 @@
 # RadImageNet
 Welcome to the official repository for RadImageNet. 
 
-[__RadImageNet: A Large-scale Radiologic Dataset for Enhancing Deep Learning Transfer Learning Research. Yang Yang, Xueyan Mei, Philip Robson, Brett Marinelli, Mingqian Huang, Amish Doshi, Adam Jacobi, Katherine Link, Thomas Yang, Chendi Cao, Ying Wang, Hayit Greenspan, Timothy Deyer, Zahi Fayad]__(https://www.researchsquare.com/article/rs-600803/v1)
+[__RadImageNet: A Large-scale Radiologic Dataset for Enhancing Deep Learning Transfer Learning Research. Yang Yang, Xueyan Mei, Philip Robson, Brett Marinelli, Mingqian Huang, Amish Doshi, Adam Jacobi, Katherine Link, Thomas Yang, Chendi Cao, Ying Wang, Hayit Greenspan, Timothy Deyer, Zahi Fayad__](https://www.researchsquare.com/article/rs-600803/v1)
 
 The RadImageNet database is an open-access and standardized database, and includes 1.35million annotated CT, MRI, and ultrasound images of musculoskeletal, neurologic, oncologic, gastrointestinal, endocrine, and pulmonary pathology. The RadImageNet database contains medical images of three modalities, 11 anatomies, and 165 pathologic labels. 
 
