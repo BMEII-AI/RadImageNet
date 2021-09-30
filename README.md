@@ -1,13 +1,13 @@
 # RadImageNet
 Welcome to the official repository for RadImageNet. 
 
-RadImageNet: A Large-scale Radiologic Dataset for Enhancing Deep Learning Transfer Learning Research. Yang Yang, Xueyan Mei, Philip Robson, Brett Marinelli, Mingqian Huang, Amish Doshi, Adam Jacobi, Katherine Link, Thomas Yang, Chendi Cao, Ying Wang, Hayit Greenspan, Timothy Deyer, Zahi Fayad 
+__RadImageNet: A Large-scale Radiologic Dataset for Enhancing Deep Learning Transfer Learning Research. Yang Yang, Xueyan Mei, Philip Robson, Brett Marinelli, Mingqian Huang, Amish Doshi, Adam Jacobi, Katherine Link, Thomas Yang, Chendi Cao, Ying Wang, Hayit Greenspan, Timothy Deyer, Zahi Fayad __
 
 The RadImageNet database is an open-access and standardized database, and includes 1.35million annotated CT, MRI, and ultrasound images of musculoskeletal, neurologic, oncologic, gastrointestinal, endocrine, and pulmonary pathology. The RadImageNet database contains medical images of three modalities, 11 anatomies, and 165 pathologic labels. 
 
 ![alt text](https://github.com/BMEII-AI/RadImageNet/blob/main/util/database.png)
 
-** Representative images and data structure of the RadImageNet database.** ** a. ** Overview of RadImageNet modalities and anatomies. RadImageNet was constructed with CT, MRI, and ultrasound images, including CT of the chest, CT of the abdomen and pelvis, MRI of the ankle and foot, MRI of the knee, MRI of the hip, MRI of the shoulder, MRI of the brain, MRI of the spine, MRI of the abdomen and pelvis, ultrasound of the abdomen and pelvis, and ultrasound of the thyroid. These images represent the diversity and fundamental structure of the RadImageNet database. **b,c,d The components of the RadImageNet database sub-divided by modalities, anatomies, and classes.** ** b.** summary of anatomies, number of classes, and number of associated images within each anatomy for CT studies.** c. ** summary of anatomies, number of classes, and number of associated images within each anatomy for ultrasound studies.** d. ** summary of anatomies, number of classes, and number of associated images within each anatomy for MRI studies.
+__Representative images and data structure of the RadImageNet database.__ __a.__ Overview of RadImageNet modalities and anatomies. RadImageNet was constructed with CT, MRI, and ultrasound images, including CT of the chest, CT of the abdomen and pelvis, MRI of the ankle and foot, MRI of the knee, MRI of the hip, MRI of the shoulder, MRI of the brain, MRI of the spine, MRI of the abdomen and pelvis, ultrasound of the abdomen and pelvis, and ultrasound of the thyroid. These images represent the diversity and fundamental structure of the RadImageNet database. **b,c,d The components of the RadImageNet database sub-divided by modalities, anatomies, and classes.** __b.__ summary of anatomies, number of classes, and number of associated images within each anatomy for CT studies.__c.__ summary of anatomies, number of classes, and number of associated images within each anatomy for ultrasound studies.__d.__ summary of anatomies, number of classes, and number of associated images within each anatomy for MRI studies.
 
 
 
