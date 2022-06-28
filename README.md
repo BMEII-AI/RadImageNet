@@ -14,8 +14,6 @@ Our RadImageNet pretrained networks include ResNet50, DenseNet121, InceptionResN
 
 ## Pretained RadImageNet Models: 
 
-[RadImageNet_models download here](https://drive.google.com/drive/folders/1ARscSSpTsZyC5-dhnje2fnqNa6GrTix_?usp=sharing)
-
 Transfer learning using pretrained models has been extensively explored in medical imaging.  We evaluated RadImageNet pretrained models on 8 medical imaging applications and compared the results to ImageNet pretrained models by using publically available datasets, including thyroid nodule malignancy prediction on ultrasound (1), breast lesion classification on ultrasound (2), ACL and meniscus tear detection on MR (3); pneumonia detection on chest radiographs(4), SARS-CoV-2 detection and COVID-19 identification on chest CT (5,6); and hemorrhage detection on head CT (7). For each medical application, we simulated 24 scenarios to fine tune the models.  The four  CNN bottlenecks were performed with varied learning rates and different numbers of freezing layers. Unfreezing all layers was conducted with learning rates of 0.001 and 0.0001, while freezing all layers and unfreezing top 10 layers were trained with learning rates of 0.01 and 0.001. The average AUROC and standard deviation of these 24 settings were compared between RadImageNet and Imagenet pre-trained models.
 
 The sample code for each application is listed upward. 
