@@ -1,9 +1,13 @@
 # RadImageNet
 Welcome to the official repository for RadImageNet. 
 
-The RadImageNet database is an open-access medical imaging database. This study was designed to improve transfer learning performance on downstream medical imaging applications. The experiments were designed in four phases. The RadImageNet dataset are available by request at https://www.radimagenet.com/. The RadImageNet pretrained models are availble (without request) at https://drive.google.com/drive/folders/1Es7cK1hv7zNHJoUW0tI0e6nLFVYTqPqK?usp=sharing.
+The RadImageNet database is an open-access medical imaging database. This study was designed to improve transfer learning performance on downstream medical imaging applications. The experiments were designed in four phases. The RadImageNet dataset are available by request at https://www.radimagenet.com/. The RadImageNet pretrained models are availble at https://drive.google.com/drive/folders/1Es7cK1hv7zNHJoUW0tI0e6nLFVYTqPqK?usp=sharing.
+
+![alt text](https://github.com/BMEII-AI/RadImageNet/blob/main/util/Slide1.JPG)
+
 
 If you find RadImageNet dataset and/or models useful in your research, please cite:
+## reference
 @article{mei2022radimagenet,
  title={RadImageNet: An Open Radiological Deep Learning Research Dataset for Effective Transfer Learning},
  author={Mei, Xueyan and Liu, Zelong and Robson, Philip and Marinelli, Brett and Huang, Mingqian and Doshi, Amish and Jacobi, Adam and Link, Katherine and Yang, Thomas and Cao, Chendi and others},
@@ -12,7 +16,6 @@ If you find RadImageNet dataset and/or models useful in your research, please ci
  }
 
 
-![alt text](https://github.com/BMEII-AI/RadImageNet/blob/main/util/Slide1.JPG)
 
 
 The RadImageNet database includes 1.35 million annotated CT, MRI, and ultrasound images of musculoskeletal, neurologic, oncologic, gastrointestinal, endocrine, and pulmonary pathology. The RadImageNet database contains medical images of 3 modalities, 11 anatomies, and 165 pathologic labels. 
