@@ -1,7 +1,16 @@
 # RadImageNet
 Welcome to the official repository for RadImageNet. 
 
-The RadImageNet database is an open-access medical imaging database. This study was designed to improve transfer learning performance on downstream medical imaging applications. The experiments were designed in four phases. The RadImageNet pretrained models and the RadImageNet dataset are available by request at https://www.radimagenet.com/.  
+The RadImageNet database is an open-access medical imaging database. This study was designed to improve transfer learning performance on downstream medical imaging applications. The experiments were designed in four phases. The RadImageNet dataset are available by request at https://www.radimagenet.com/. The RadImageNet pretrained models are availble (without request) at https://drive.google.com/drive/folders/1Es7cK1hv7zNHJoUW0tI0e6nLFVYTqPqK?usp=sharing.
+
+If you find RadImageNet dataset and/or models useful in your research, please cite:
+@article{mei2022radimagenet,
+ title={RadImageNet: An Open Radiological Deep Learning Research Dataset for Effective Transfer Learning},
+ author={Mei, Xueyan and Liu, Zelong and Robson, Philip and Marinelli, Brett and Huang, Mingqian and Doshi, Amish and Jacobi, Adam and Link, Katherine and Yang, Thomas and Cao, Chendi and others},
+ journal={Radiology: Artificial Intelligence},
+ year={2022 (in press)}
+ }
+
 
 ![alt text](https://github.com/BMEII-AI/RadImageNet/blob/main/util/Slide1.JPG)
 
