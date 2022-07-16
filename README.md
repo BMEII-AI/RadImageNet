@@ -5,6 +5,11 @@ The RadImageNet database is an open-access medical imaging database. This study 
 
 ![alt text](https://github.com/BMEII-AI/RadImageNet/blob/main/util/Slide1.JPG)
 
+The RadImageNet database includes 1.35 million annotated CT, MRI, and ultrasound images of musculoskeletal, neurologic, oncologic, gastrointestinal, endocrine, and pulmonary pathology. The RadImageNet database contains medical images of 3 modalities, 11 anatomies, and 165 pathologic labels. 
+
+![alt text](https://github.com/BMEII-AI/RadImageNet/blob/main/util/Slide2.JPG)
+
+
 
 If you find RadImageNet dataset and/or models useful in your research, please cite:
 ## reference
@@ -18,9 +23,6 @@ If you find RadImageNet dataset and/or models useful in your research, please ci
 
 
 
-The RadImageNet database includes 1.35 million annotated CT, MRI, and ultrasound images of musculoskeletal, neurologic, oncologic, gastrointestinal, endocrine, and pulmonary pathology. The RadImageNet database contains medical images of 3 modalities, 11 anatomies, and 165 pathologic labels. 
-
-![alt text](https://github.com/BMEII-AI/RadImageNet/blob/main/util/Slide2.JPG)
 
 ## Pretained RadImageNet Models: 
 Our RadImageNet pretrained networks include ResNet50, DenseNet121, InceptionResNetV2, and InceptionV3. They are trained solely from RadImageNet medical images and can be used as the starting point on downstream applications using transfer learning. We evaluated RadImageNet pretrained models on 8 medical imaging applications and compared the results to ImageNet pretrained models by using publically available datasets, including thyroid nodule malignancy prediction on ultrasound (1), breast lesion classification on ultrasound (2), ACL and meniscus tear detection on MR (3); pneumonia detection on chest radiographs(4), SARS-CoV-2 detection and COVID-19 identification on chest CT (5,6); and hemorrhage detection on head CT (7). For each medical application, we simulated 24 scenarios to fine tune the models.  The four  CNN bottlenecks were performed with varied learning rates and different numbers of freezing layers. Unfreezing all layers was conducted with learning rates of 0.001 and 0.0001, while freezing all layers and unfreezing top 10 layers were trained with learning rates of 0.01 and 0.001. The average AUROC and standard deviation of these 24 settings were compared between RadImageNet and Imagenet pre-trained models.
