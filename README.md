@@ -12,13 +12,28 @@ The RadImageNet database includes 1.35 million annotated CT, MRI, and ultrasound
 
 
 If you find RadImageNet dataset and/or models useful in your research, please cite:
-## Citation
-@article{mei2022radimagenet,
- title={RadImageNet: An Open Radiological Deep Learning Research Dataset for Effective Transfer Learning},
- author={Mei, Xueyan and Liu, Zelong and Robson, Philip and Marinelli, Brett and Huang, Mingqian and Doshi, Amish and Jacobi, Adam and Link, Katherine and Yang, Thomas and Cao, Chendi and others},
- journal={Radiology: Artificial Intelligence},
- year={2022 (in press)}
- }
+
+## BibTex Citation
+```yaml
+@article{doi:10.1148/ryai.210315,
+author = {Mei, Xueyan and Liu, Zelong and Robson, Philip M. and Marinelli, Brett and Huang, Mingqian and Doshi, Amish and Jacobi, Adam and Cao, Chendi and Link, Katherine E. and Yang, Thomas and Wang, Ying and Greenspan, Hayit and Deyer, Timothy and Fayad, Zahi A. and Yang, Yang},
+title = {RadImageNet: An Open Radiologic Deep Learning Research Dataset for Effective Transfer Learning},
+journal = {Radiology: Artificial Intelligence},
+volume = {0},
+number = {ja},
+pages = {e210315},
+year = {0},
+doi = {10.1148/ryai.210315},
+
+URL = { 
+        https://doi.org/10.1148/ryai.210315
+    
+},
+eprint = { 
+        https://doi.org/10.1148/ryai.210315
+}
+}
+```
 
 
 
