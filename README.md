@@ -10,10 +10,9 @@ The RadImageNet database includes 1.35 million annotated CT, MRI, and ultrasound
 ![alt text](https://github.com/BMEII-AI/RadImageNet/blob/main/util/Slide2.JPG)
 
 
-
+## Citation
 If you find RadImageNet dataset and/or models useful in your research, please cite:
 
-## BibTex Citation
 ```yaml
 @article{doi:10.1148/ryai.210315,
 author = {Mei, Xueyan and Liu, Zelong and Robson, Philip M. and Marinelli, Brett and Huang, Mingqian and Doshi, Amish and Jacobi, Adam and Cao, Chendi and Link, Katherine E. and Yang, Thomas and Wang, Ying and Greenspan, Hayit and Deyer, Timothy and Fayad, Zahi A. and Yang, Yang},
