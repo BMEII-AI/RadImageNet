@@ -99,17 +99,16 @@ def get_compiled_model():
     adam = Adam(lr=args.lr)
     model.compile(optimizer=adam, loss=BinaryCrossentropy(), metrics=[keras.metrics.AUC(name='auc')])
     return model
-
-### Open a strategy scope.
-with strategy.scope():
-    # Everything that creates variables should be under the strategy scope.
-    # In general this is only model construction & `compile()`.
-    model = get_compiled_model()
-
-
-    
+  
     
 def run_model():
+    
+    ### set model
+    with strategy.scope():
+    # Everything that creates variables should be under the strategy scope.
+    # In general this is only model construction & `compile()`.
+        model = get_compiled_model()
+    
     ### Set train steps and validation steps
     train_steps =  len(train_generator.labels)/ batch_size
     val_steps = len(validation_generator.labels) / batch_size
