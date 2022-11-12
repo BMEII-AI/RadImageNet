@@ -10,6 +10,13 @@ The RadImageNet database includes 1.35 million annotated CT, MRI, and ultrasound
 ![alt text](https://github.com/BMEII-AI/RadImageNet/blob/main/util/Slide2.JPG)
 
 
+## Top1 and Top5 Accuracy
+| Model Name        | Top1 Accuracy           | Top5 Accuracy  |
+| ------------- |:-------------:| -----:|
+| InceptionResNetV2      | 74.0% | 94.3% |
+| ResNet50      | 72.3%      | 94.1%   |
+| DenseNet121 | 73.1%      |  96.1% |
+
 ## Citation
 If you find RadImageNet dataset and/or models useful in your research, please cite:
 
@@ -47,7 +54,7 @@ Comparions on small datasets (5-fold cross validation)
 Comparions on large datasets
 ![alt text](https://github.com/BMEII-AI/RadImageNet/blob/main/util/f4_final.jpg)
 
-## Top1 and Top5 Accuracy
+
 
 The sample code for each application is listed upward. 
 
