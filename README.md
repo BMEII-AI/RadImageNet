@@ -11,7 +11,7 @@ The RadImageNet database includes 1.35 million annotated CT, MRI, and ultrasound
 
 
 ## Top1 and Top5 Accuracy
-| Model Name        | Top1 Accuracy           | Top5 Accuracy  |
+| Model Name        | Top1 Accuracy    | Top5 Accuracy  |
 | ------------- |:-------------:| -----:|
 | InceptionResNetV2      | 74.0% | 94.3% |
 | ResNet50      | 72.3%  | 94.1% |
