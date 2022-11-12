@@ -47,6 +47,7 @@ Comparions on small datasets (5-fold cross validation)
 Comparions on large datasets
 ![alt text](https://github.com/BMEII-AI/RadImageNet/blob/main/util/f4_final.jpg)
 
+## Top1 and Top5 Accuracy
 
 The sample code for each application is listed upward. 
 
