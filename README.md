@@ -3,6 +3,8 @@ Welcome to the official repository for RadImageNet.
 
 The RadImageNet database is an open-access medical imaging database. This study was designed to improve transfer learning performance on downstream medical imaging applications. The experiments were designed in four phases. The RadImageNet dataset are available by request at https://www.radimagenet.com/, and the dataset split csv can be found here https://drive.google.com/drive/folders/1FUir_Y_kbQZWih1TMVf9Sz8Pdk9NF2Ym?usp=sharing. The RadImageNet pretrained models are availble at https://drive.google.com/drive/folders/1Es7cK1hv7zNHJoUW0tI0e6nLFVYTqPqK?usp=sharing.
 
+Note: if you don't receive a response to your inquiry (check your junk/spam folder first) you can directly email twdeyer@radimagenet.com or twdeyer@gmail.com.
+
 ![alt text](https://github.com/BMEII-AI/RadImageNet/blob/main/util/Slide1.JPG)
 
 The RadImageNet database includes 1.35 million annotated CT, MRI, and ultrasound images of musculoskeletal, neurologic, oncologic, gastrointestinal, endocrine, and pulmonary pathology. The RadImageNet database contains medical images of 3 modalities, 11 anatomies, and 165 pathologic labels. 
